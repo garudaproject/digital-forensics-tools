@@ -30,6 +30,15 @@
 - **PALADIN**: PALADIN is a modified “live” Linux distribution based on Ubuntu that simplifies various forensics tasks in a forensically sound manner via the PALADIN Toolbox. PALADIN is available in 64-bit and 32-bit versions.
 	- Website: <https://sumuri.com/software/paladin/>
 
+- **SIFT Workstation**: SIFT (SANS investigative forensic toolkit) Workstation is a freely-available virtual appliance that is configured in Ubuntu 14.04. SIFT contains a suite of forensic tools needed to perform a detailed digital forensic examination. It is one of the most popular open-source incident response platforms.
+	- Website: <https://www.sans.org/tools/sift-workstation/>
+
+- **FTK Imager**: FTK Imager is a data preview and imaging tool used to acquire data (evidence) in a forensically sound manner by creating copies of data without making changes to the original evidence. It saves an image of a hard disk, in one file or in segments, which may be reconstructed later on. It calculates MD5 hash values and confirms the integrity of the data before closing the files.
+ - Website: <https://www.exterro.com/digital-forensics-software/ftk-imager>
+
+- **Volatility**: Also built into SIFT, Volatility is an open-source memory forensics framework for incident response and malware analysis. It is written in Python and supports Microsoft Windows, Mac OS X, and Linux (as of version 2.5). Forensic analysis of raw memory dump will be performed on a Windows platform. The Volatility tool is used to determine whether the PC is infected or not. Subsequently, the malicious programme can be extracted from the running processes from the memory dump.
+	- Website: <https://volatilityfoundation.org/the-volatility-framework/>
+
 ## Paid
 
 - **Magnet AXIOM**: Magnet AXIOM is a complete digital investigation platform, with the ability to recover, analyze, and report on data from all your sources—mobile, computer, and cloud— in one case file, helping you build a holistic view of the evidence and how it relates to the case so you can quickly and easily see the entire story.
