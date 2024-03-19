@@ -34,10 +34,19 @@
 	- Website: <https://www.sans.org/tools/sift-workstation/>
 
 - **FTK Imager**: FTK Imager is a data preview and imaging tool used to acquire data (evidence) in a forensically sound manner by creating copies of data without making changes to the original evidence. It saves an image of a hard disk, in one file or in segments, which may be reconstructed later on. It calculates MD5 hash values and confirms the integrity of the data before closing the files.
- - Website: <https://www.exterro.com/digital-forensics-software/ftk-imager>
+	- Website: <https://www.exterro.com/digital-forensics-software/ftk-imager>
 
 - **Volatility**: Also built into SIFT, Volatility is an open-source memory forensics framework for incident response and malware analysis. It is written in Python and supports Microsoft Windows, Mac OS X, and Linux (as of version 2.5). Forensic analysis of raw memory dump will be performed on a Windows platform. The Volatility tool is used to determine whether the PC is infected or not. Subsequently, the malicious programme can be extracted from the running processes from the memory dump.
 	- Website: <https://volatilityfoundation.org/the-volatility-framework/>
+
+- **LastActivityView**: LastActivityView is a tool for the Windows operating system that collects information from various sources on a running system, and displays a log of actions made by the user and events that occurred on this computer. The activity displayed by LastActivityView includes: Running an .exe file, opening open/save dialog-box, opening file/folder from Explorer or other software, software installation, system shutdown/start, application or system crash and network connection and disconnection.
+	- Website: <https://www.nirsoft.net/utils/computer_activity_view.html>
+
+- **HxD**: HxD is a carefully designed and fast hex editor which, in addition to raw disk editing and modifying of main memory (RAM), handles files of any size. The easy-to-use interface offers features such as searching and replacing, exporting, checksums/digests, insertion of byte patterns, a file shredder, concatenation or splitting of files, statistics and much more.
+	- Website: <https://mh-nexus.de/en/hxd/>
+
+- **CANE**: CAINE offers a complete forensic environment that is organised to integrate existing software tools as software modules and to provide a friendly graphical interface. This is a digital forensics platform and graphical interface to the Sleuth Kit and other digital forensics tools.
+	- Website: <https://www.caine-live.net/page5/page5.html>
 
 ## Paid
 
