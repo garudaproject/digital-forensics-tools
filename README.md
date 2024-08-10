@@ -1,12 +1,12 @@
 # Digital Forensics Tools
 
-![AnimAPI](https://socialify.git.ci/GarudaProject/digital-forensics-tools/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark)
+![Socialify](https://socialify.git.ci/garudaproject/digital-forensics-tools/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark)
 
 <div align="center">
 
 ### Digital Forensics Tools Collection
 
-[![HitCount](http://hits.dwyl.com/GarudaProject/digital-forensics-tools.svg)](http://hits.dwyl.com/GarudaProject/digital-forensics-tools) [![GitHub license](https://img.shields.io/github/license/GarudaProject/digital-forensics-tools)](https://github.com/GarudaProject/digital-forensics-tools/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.com/garudaproject/digital-forensics-tools.svg)](http://hits.dwyl.com/garudaproject/digital-forensics-tools) [![GitHub license](https://img.shields.io/github/license/garudaproject/digital-forensics-tools)](https://github.com/garudaproject/digital-forensics-tools/blob/master/LICENSE)
 
 </div>
 
@@ -120,4 +120,4 @@
 
 ## License
 
-Copyright (c) 2024 GarudaProject. Licensed under the MIT License (MIT)
+Copyright (c) 2024 Garuda Project. Licensed under the MIT License (MIT)
